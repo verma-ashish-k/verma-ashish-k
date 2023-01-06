@@ -1,4 +1,5 @@
 ![MasterHead](https://swas.io/static/hello-world-banner-d0a141d7bfcd1933c1d175b273805281-a886b.webp)
+img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
 
 <h1 align="left">नमस्ते ! 🙏🏼(Namaste!)      I'm Ashish Verma 🙋🏼‍♂️</h1>
 <h3 align="left">An Aspiring Software Developer</h3>
