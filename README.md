@@ -1,4 +1,4 @@
-[![MasterHead](https://swas.io/static/hello-world-banner-d0a141d7bfcd1933c1d175b273805281-a886b.webp)]
+![MasterHead](https://swas.io/static/hello-world-banner-d0a141d7bfcd1933c1d175b273805281-a886b.webp)
 
 <h1 align="left">नमस्ते ! 🙏🏼(Namaste!)      I'm Ashish Verma 🙋🏼‍♂️</h1>
 <h3 align="left">An Aspiring Software Developer</h3>
