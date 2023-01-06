@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते ! 🙏🏼(Namaste!)      I'm Ashish Verma 🙋🏼‍♂️</h1>
+<h1 align="left">नमस्ते ! 🙏🏼(Namaste!)      I'm Ashish Verma 🙋🏼‍♂️</h1>
 <h3 align="left">An Aspiring Software Developer</h3>
 
 - 🔭 I’m currently working on **Africa Live Network**
