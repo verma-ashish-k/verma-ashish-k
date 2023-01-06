@@ -1,5 +1,54 @@
-![MasterHead](https://swas.io/static/hello-world-banner-d0a141d7bfcd1933c1d175b273805281-a886b.webp)
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+![MasterHead]({
+    "timeline": {
+        "background": "#000000",
+        "tracks": [
+            {
+                "clips": [
+                    {
+                        "asset": {
+                            "type": "title",
+                            "text": "Hello World",
+                            "style": "future",
+                            "position": "left",
+                            "size": "x-small"
+                        },
+                        "start": 4,
+                        "length": 11,
+                        "transition": {
+                            "in": "fade",
+                            "out": "fade"
+                        },
+                        "effect": "zoomIn"
+                    }
+                ]
+            },
+            {
+                "clips": [
+                    {
+                        "asset": {
+                            "type": "video",
+                            "src": "https://shotstack-assets.s3-ap-southeast-2.amazonaws.com/footage/earth.mp4",
+                            "trim": 5
+                        },
+                        "start": 0,
+                        "length": 15,
+                        "transition": {
+                            "in": "fade",
+                            "out": "fade"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "output": {
+        "format": "gif",
+        "resolution": "mobile",
+        "quality": "low",
+        "fps": 12
+    }
+})
+<img align="right" alt="Coding" width="300" style="float:right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <h1 align="left">नमस्ते ! 🙏🏼(Namaste!)      I'm Ashish Verma 🙋🏼‍♂️</h1>
 <h3 align="left">An Aspiring Software Developer</h3>
