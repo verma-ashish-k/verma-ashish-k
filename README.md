@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.shotstack.io/au/v1/msgtwx8iw6/8653b1a3-4939-4739-b6b2-ad435f6dfd8a.gif)
+![MasterHead](https://user-images.githubusercontent.com/44582949/97300632-ed3cd700-1880-11eb-9670-766d86aa6de0.gif)
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <h1 align="left">नमस्ते ! 🙏🏼(Namaste!)      I'm Ashish Verma 🙋🏼‍♂️</h1>
