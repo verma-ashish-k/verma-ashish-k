@@ -1,4 +1,4 @@
-![MasterHead](https://tenor.com/view/gif-27385453)
+![MasterHead](https://drive.google.com/file/d/1cz9me8LhsjXD5_4MJFe53KMW6QJGNBr8/view?usp=sharing)
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <h1 align="left">नमस्ते ! 🙏🏼(Namaste!)      I'm Ashish Verma 🙋🏼‍♂️</h1>
