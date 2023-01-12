@@ -1,5 +1,4 @@
 ![Masterhead](https://raw.githubusercontent.com/verma-ashish-k/verma-ashish-k/a3263a1cc0ce7021b733e9e223a55ba2d004f569/hello-world.gif)
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <h1 align="left">नमस्ते ! 🙏🏼(Namaste!)      I'm Ashish Verma 🙋🏼‍♂️</h1>
 <h3 align="left">An Aspiring Software Developer</h3>
