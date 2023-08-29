@@ -1,15 +1,17 @@
 ![Masterhead](https://raw.githubusercontent.com/verma-ashish-k/verma-ashish-k/a3263a1cc0ce7021b733e9e223a55ba2d004f569/hello-world.gif)
 
 <h1 align="left">नमस्ते ! 🙏🏼(Namaste!)      I'm Ashish Verma 🙋🏼‍♂️</h1>
-<h3 align="left">An Aspiring Software Developer</h3>
+<h3 align="left">Software Developer</h3>
 
-- 🔭 I’m currently working on **Africa Live Network**
+- 🚠 I work as a Junior Developer at Let's Roam LLC.
 
-- 🌱 I’m currently learning **React.js, Vite.js, MongoDB, Firebase, MongoDB**
+- 🔭 I’m currently working on **Personal Project with machine learning**
+
+- 🌱 I’m currently learning **Python, PHP, Codeigniter, Firebase**
 
 - 👯 I’m looking to collaborate on **Projects involving strong UI/UX components**
 
-- 💬 Ask me about **Photography !**
+- 💬 Ask me about **Photography, cooking and ofcourse coding !!**
 
 - 📫 How to reach me **ashish@ashishverma.ca**
 
